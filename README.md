@@ -14,9 +14,11 @@
 
 <br>
 
-- Cursando bacharelado em Sistemas de Informação - Instituto Federal do Espírito Santo.
+- Cursando bacharelado em Sistemas de Informação (5º Período) - Instituto Federal do Espírito Santo.
 - Estagiário em Suporte de TI - Defensoria Pública do Estado do Espírito Santo.
+- Colatina, Espírito Santo, Brazil.
 - Nas horas vagas, gosto de jogar FiveM.
+
 
 <br><br>
 
