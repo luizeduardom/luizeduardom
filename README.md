@@ -28,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![JAVA](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 &emsp;
 
 ### 
