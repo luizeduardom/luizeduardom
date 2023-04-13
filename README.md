@@ -22,6 +22,7 @@
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C] (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
