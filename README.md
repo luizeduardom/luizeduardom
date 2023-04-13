@@ -18,6 +18,7 @@
 - Estagiário em Suporte de TI - Defensoria Pública do Estado do Espírito Santo.
 - Colatina, Espírito Santo, Brazil.
 - Nas horas vagas, gosto de jogar FiveM.
+<br>
 ### Linguagens de Programação:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
