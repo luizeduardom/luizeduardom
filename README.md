@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![JAVA](https://img.shields.io/badge/-Java-000?&logo=Java)
 &emsp;
 
 ### 
