@@ -14,9 +14,9 @@
 
 <br>
 
-- Cursando bacharelado em Sistemas de Informação (6º Período) - Instituto Federal do Espírito Santo.
-- Estagiário em Suporte de TI - Defensoria Pública do Estado do Espírito Santo.
-- Colatina, Espírito Santo, Brazil.
+- Cursando bacharelado em Sistemas de Informação (7º Período) - Instituto Federal do Espírito Santo.
+- Tec. em Manutenção de Sistemas pela Empresa Luz e Força Santa Maria - Colatina - Espírito Santo.
+- Resido em Colatina, Espírito Santo, Brasil.
 
 ### Linguagens de Programação:
 &emsp;
