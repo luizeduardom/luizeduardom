@@ -14,7 +14,7 @@
 
 <br>
 
-- Cursando bacharelado em Sistemas de Informação (7º Período) - Instituto Federal do Espírito Santo.
+- Cursando bacharelado em Sistemas de Informação (7º Período) - Instituto Federal do Espírito Santo - Campus Colatina.
 - Tec. em Manutenção de Sistemas pela Empresa Luz e Força Santa Maria - Colatina - Espírito Santo.
 - Resido em Colatina, Espírito Santo, Brasil.
 
